@@ -1,7 +1,5 @@
 // practical 7: code to find out the average of 3 numbers
-
 #include<stdio.h>
-
 int main()
 {
     float num1,num2,num3,avg;
